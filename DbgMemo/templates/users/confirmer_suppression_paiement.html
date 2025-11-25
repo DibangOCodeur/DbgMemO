@@ -1,0 +1,48 @@
+{% extends 'users/base.html' %}
+
+{% block content %}
+
+
+<title>DbgMemO - SUPPRESSION DE PAIEMENT</title>
+<div class="content-body">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-6 mx-auto">
+                <div class="card">
+                    <div class="card-header bg-danger text-white">
+                        <h4 class="card-title">
+                            <i class="fas fa-exclamation-triangle"></i> Confirmer la suppression
+                        </h4>
+                    </div>
+                    <div class="card-body">
+                        <p>Êtes-vous sûr de vouloir supprimer définitivement ce paiement ?</p>
+                        
+                        <div class="alert alert-warning">
+                            <strong>Détails du paiement :</strong>
+                            <ul>
+                                
+                                <li>Étudiant: {{ paiement.etudiant.nom }} {{ paiement.etudiant.prenom }}</li>
+                                <li>Montant: {{ paiement.montant }} FCFA</li>
+                                <li>Référence: {{ paiement.reference }}</li>
+                                <li>Date: {{ paiement.date_paiement|date:"d/m/Y" }}</li>
+                            </ul>
+                        </div>
+
+                        <form method="post">
+                            {% csrf_token %}
+                            <div class="form-group">
+                                <button type="submit" class="btn btn-danger">
+                                    <i class="fas fa-trash-alt"></i> Supprimer
+                                </button>
+                                <a href="{% url 'list_paiement' %}" class="btn btn-secondary">
+                                    <i class="fas fa-times"></i> Annuler
+                                </a>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

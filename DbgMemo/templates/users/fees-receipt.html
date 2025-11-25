@@ -1,0 +1,165 @@
+﻿{% extends 'users/base.html' %}
+
+{% block content %}
+
+    <title>DbgMemO - PAGE RECU </title>
+
+    <div class="content-body">
+        <!-- row -->
+        <div class="container-fluid">
+                
+            <div class="row page-titles mx-0">
+                <div class="col-sm-6 p-md-0">
+                    <div class="welcome-text">
+                        <h4>Reçu de paiement > {{ etudiant.nom}} {{ etudiant.prenom }} </h4>
+                    </div>
+                </div>
+                <div class="col-sm-6 p-md-0 justify-content-sm-end mt-2 mt-sm-0 d-flex">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="javascript:void(0);">Paiement </a></li>
+                        <li class="breadcrumb-item active"><a href="javascript:void(0);">Reçu de paiement</a></li>
+                    </ol>
+                </div>
+            </div>
+            
+            <!-- Zone à imprimer -->
+            <div id="printableArea">
+
+                <div class="row">
+                    <div class="col-lg-12 mb-3">
+                        <div class="card mt-3">
+                            <div class="card-header"> Paiement {{paiement.statut}} <strong> {{paiement.date_paiement}} </strong> <span class="float-right">
+                                    <strong>Statut :</strong> Effectué </span> </div>
+                            <div class="card-body">
+                            <!-- Logo centré en haut -->
+                            <div style="text-align: center; margin: 0px 0 0px 0;">
+                                <img src="/static/images/DbgMindS_logo.png" alt="Logo DbgMindS" style="max-width: 150px; height: auto;">
+                            </div>
+                                <div class="row mb-5">
+                                    <div class="mt-4 col-xl-6 col-lg-6 col-md-6 col-sm-12">
+                                        <h6>Paiement pour l'étudiant :</h6>
+                                        <div>Nom : <strong> {{ etudiant.nom }} </strong> </div>
+                                        <div>Prénom(s) : <strong>{{ etudiant.prenom }}</strong></div>
+                                        <div>Date et lieu de naissance : <strong>{{ etudiant.date_naissance }} à  {{ etudiant.lieu_naissance }}</strong> </div>
+                                        <div>Email : <strong>{{ etudiant.email }}</strong></div>
+                                        <div>Contact : <strong>{{ etudiant.contact }}</strong></div>
+                                        <div>Filière : <strong>{{ etudiant.filiere }}</strong></div><br>
+                                        <div> </div>
+                                    {% if paiement.service_annexe %}
+                                        <div>Service annexe : <strong>{{ paiement.intitule_annexe }}</strong></div>
+                                    {% else %}
+                                        <div>Service annexe : <strong>Aucun Service </strong></div>
+                                    {% endif %}
+                                    </div>
+                                    <div class="mt-4 col-xl-6 text-right col-lg-6 col-md-6 col-sm-12">
+                                        <h6>Thème du mémoire : </h6>
+                                        <div> <strong>{{ etudiant.theme_memoire}}</strong> </div>
+                                    </div>
+                                </div>
+                                <div class="table-responsive">
+                                    <table class="table table-striped text-nowrap">
+                                        <thead>
+                                            <tr>
+                                                <th class="center">id</th>
+                                                <th>Statut </th>
+                                                <th>Source</th>
+                                                <th class="right">Reference</th>
+                                                <th class="center">Date</th>
+                                                <th class="right">Payé</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td class="center">{{paiement.id}}</td>
+                                                <td class="left strong"> {{paiement.statut}}</td>
+                                                <td class="left">{{paiement.source}}</td>
+                                                <td class="right"> {{paiement.reference}} </td>
+                                                <td class="right"> {{paiement.date_paiement}} </td>
+                                                <td class="right"> {{paiement.montant}} </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                                <div class="row">
+                                    <div class="col-lg-4 col-sm-5"> </div>
+                                    <div class="col-lg-4 col-sm-5 ms-auto">
+                                        <table class="table table-clear">
+                                            <tbody>
+                                                <tr>
+                                                    <td class="left"><strong>Frais d'impression</strong></td>
+                                                    <td class="right">{{paiement.frais_impression}}</td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="left"><strong>Frais annexe</strong></td>
+                                                    <td class="right"> {{paiement.frais_annexe}} </td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="left"><strong>Montant Total</strong></td>
+                                                    <td class="right"><strong>{{paiement.montant}}</strong></td>
+                                                </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                    <div class="message" style="text-align: center; background-color: #f5f5f5; padding: 15px; border-radius: 8px; margin-top: 20px;">
+                                        <p style="font-size: 16px; color: #333;">
+                                            Veuillez svp bien conserver ce reçu, aucun duplicata ne sera effectué.<br>
+                                            Un mail vous sera envoyé au <strong>{{ etudiant.email }}</strong> lorsque votre mémoire sera prêt.<br>
+                                            Veuillez vous présenter avec celui-ci à la date de retrait.
+                                        </p>
+                                    </div>
+                                    <div>
+                                        <p>
+                                            
+                                        </p>
+                                    </div>
+                                    
+                                </div>
+                                <!-- <div class="row">
+                                    <div class="col-lg-12 text-right">
+                                        <button onclick="printDiv('printableArea')" class="btn btn-light" type="button"> <i class="fa fa-print"></i> Imprimer le reçu </button>
+                                    </div>    
+                                </div> -->
+                                <div class="row">
+                                    <div class="col-lg-12 text-right">
+                                        <button onclick="printDiv('printableArea')" class="btn btn-light" type="button" id='btnPrint'> <i class="fa fa-print"></i> Imprimer le reçu </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                    
+        </div>
+    </div>
+
+    <!-- Script impression -->
+    <script>
+        // function printDiv(divId) {
+        //     const printContents = document.getElementById(divId).innerHTML;
+        //     const originalContents = document.body.innerHTML;
+
+        //     document.body.innerHTML = printContents;
+        //     window.print();
+        //     document.body.innerHTML = originalContents;
+        //     window.location.reload();
+        // }
+        function printDiv(divId) {
+            const printContents = document.getElementById(divId).innerHTML;
+            const originalContents = document.body.innerHTML;
+
+            document.body.innerHTML = printContents;
+            // Masquer le bouton d'impression
+            let hiddenBtn =document.getElementById('btnPrint');
+            hiddenBtn.addEventListener('click', function() {
+            this.setAttribute('display', 'none');});
+            // Imprimer le contenu
+            window.print();
+            document.body.innerHTML = originalContents;
+            window.location.reload();
+          }
+    </script>
+
+{% endblock %}
+
+    

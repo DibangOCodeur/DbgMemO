@@ -1,0 +1,416 @@
+﻿{% extends 'users/base.html' %}
+
+{% load static %}
+
+{% block content %}
+	<!-- Title -->
+	<title>DbgMemO - REVENUS</title>
+
+
+		<!--**********************************
+            Content body start
+        ***********************************-->
+        <div class="content-body">
+            <!-- row -->
+            <div class="container-fluid">
+				    
+                <div class="row">
+					<div class="col-xl-6 col-xxl-6 col-sm-12">
+						<div class="row">
+							<div class="col-xl-6 col-xxl-6 col-sm-6">
+								<div class="widget-stat card">
+									<div class="card-body">
+										<h4 class="card-title">Cummul total des commissions</h4>
+										<h3 class="fw-bold">{{total_commission}} FCFA</h3>
+										<div class="progress mb-2">
+											<div class="progress-bar progress-animated bg-primary" style="width: 80%"></div>
+										</div>
+										<small>Cummul des commissions à DbgMemO</small>
+									</div>
+								</div>
+							</div>
+							<div class="col-xl-6 col-xxl-6 col-sm-6">
+								<div class="widget-stat card">
+									<div class="card-body">
+										<h4 class="card-title">Revenus total sur annexes</h4>
+										<h3 class="fw-bold">{{total_frais_annexes}} FCFA</h3>
+										<div class="progress mb-2">
+											<div class="progress-bar progress-animated bg-danger" style="width: 50%"></div>
+										</div>
+										<small>Revenue global sur les services annexes chez DbgMemO </small>
+									</div>
+								</div>
+							</div>
+							<div class="col-xl-6 col-xxl-6 col-sm-6">
+								<div class="widget-stat card">
+									<div class="card-body">
+										<h4 class="card-title">Revenus Total</h4>
+										<h3 class="fw-bold">{{gain_total}} FCFA</h3>
+										<div class="progress mb-2">
+											<div class="progress-bar progress-animated bg-red" style="width: 76%"></div>
+										</div>
+										<small>Revenus total sur tout les services de DbgMemO</small>
+									</div>
+								</div>
+							</div>
+							<div class="col-xl-6 col-xxl-6 col-sm-6">
+								<div class="widget-stat card">
+									<div class="card-body">
+										<h4 class="card-title">Montant total</h4>
+										<h3 class="fw-bold">{{sm_paiements}} FCFA</h3>
+										<div class="progress mb-2">
+											<div class="progress-bar progress-animated bg-success" style="width: 30%"></div>
+										</div>
+										<small>Montant global des transactions chez DbgMemO</small>
+									</div>
+								</div>
+							</div>
+						</div>
+                    </div>					
+					<div class="col-xl-6 col-xxl-6 col-sm-12">
+						<div class="card">
+							<div class="card-header">
+								<h3 class="card-title">Diagramme d'évolution des transactions chez DbgMemO</h3>
+							</div>
+							<div class="card-body">
+								 <div id="morris_bar_2" class="morris_chart_height ltr"></div>
+							</div>
+						</div>
+					</div>
+
+
+
+
+
+					
+					<div class="col-lg-4 col-md-12">
+						<div class="card">
+                            <div class="card-header">    
+								<h4 class="card-title">Gold medal</h4>
+								<small class="text-success"><i class="fa fa-caret-up"></i> 20% High then last mont</small>
+							</div>
+                            <div class="card-body pb-0">
+                                <div class="row mt-2">
+                                    <div class="col">
+                                        <h6 class="font-weight-normal">Overall Growth</h6>
+                                        <strong>82.24%</strong>
+                                    </div>
+                                    <div class="col">
+                                        <h6 class="font-weight-normal">Montly</h6>
+                                        <strong>12.24 %</strong>
+                                    </div>
+                                    <div class="col">
+                                        <h6 class="font-weight-normal">Day</h6>
+                                        <strong>42.24%</strong>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="chart-wrapper">
+                               <span class="peity-line" data-width="100%">6,5,8,4,3,8,4,3,6,5,9,5,8,3,4,8,9,8,5,7</span>
+                            </div>
+                        </div>
+					</div>
+					<div class="col-xl-4 col-lg-4 col-xxl-4 col-md-6">
+						<div class="card">
+                            <div class="card-header">    
+								<h4 class="card-title">Silver medal</h4>
+								<small class="text-success"><i class="fa fa-caret-up"></i> 20% High then last mont</small>
+							</div>
+                            <div class="card-body pb-0">
+                                <div class="row mt-2">
+                                    <div class="col">
+                                        <h6 class="font-weight-normal">Overall Growth</h6>
+                                        <strong>82.24%</strong>
+                                    </div>
+                                    <div class="col">
+                                        <h6 class="font-weight-normal">Montly</h6>
+                                        <strong>12.24 %</strong>
+                                    </div>
+                                    <div class="col">
+                                        <h6 class="font-weight-normal">Day</h6>
+                                        <strong>42.24%</strong>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="chart-wrapper">
+                                <span class="peity-line-2" data-width="100%">9,3,7,8,6,7,3,3,7,4,6,8,3,4,7,3,4,7,8,5</span>
+                            </div>
+                        </div>
+					</div>
+					<div class="col-xl-4 col-lg-4 col-xxl-4 col-md-6">
+						<div class="card">
+                            <div class="card-header">    
+								<h4 class="card-title">Bronze medal</h4>
+								<small class="text-success"><i class="fa fa-caret-up"></i> 20% High then last mont</small>
+							</div>
+                            <div class="card-body pb-0">
+                                <div class="row mt-2">
+                                    <div class="col">
+                                        <h6 class="font-weight-normal">Overall Growth</h6>
+                                        <strong>82.24%</strong>
+                                    </div>
+                                    <div class="col">
+                                        <h6 class="font-weight-normal">Montly</h6>
+                                        <strong>12.24 %</strong>
+                                    </div>
+                                    <div class="col">
+                                        <h6 class="font-weight-normal">Day</h6>
+                                        <strong>42.24%</strong>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="chart-wrapper">
+                               <span class="peity-line-3" data-width="100%">3,8,3,7,8,6,3,4,7,3,7,9,6,3,7,6,7,3,4,2</span>
+                            </div>
+                        </div>
+					</div>
+
+
+
+					<div class="col-lg-4 col-md-12">
+						<div class="card">
+                            <div class="card-header">
+                                <h4 class="card-title"> <strong>Notifications des commissions</strong> </h4>
+                            </div>
+                            <div class="card-body dz-scroll" style="height: 360px;">
+								
+								{% for paiement in paiements %}
+									{% if paiement.commission %}
+								<div class="media mb-3 align-items-center border-bottom pb-3">
+                                    <img class="me-3 rounded-circle" alt="image" width="50" src="{% static 'images/DOLLAR.avif' %}">
+                                    <div class="media-body">
+                                        <h5 class="mb-0 text-pale-sky">Vous avez reçu une commission de {{ paiement.commission}} FCFA sur l'impression du mémoire de {{ paiement.etudiant.nom}} {{ paiement.etudiant.prenom}}<small class="text-muted"></small></h5>
+                                        <small >A la date du {{paiement.date_paiement}} </small>
+									</div>
+								</div>
+									{% else %}
+								<div class="media mb-3 align-items-center border-bottom pb-3">
+                                    <img class="me-3 rounded-circle" alt="image" width="50" src="{% static 'images/echec.avif' %}">
+                                    <div class="media-body">
+                                        <h5 class="mb-0 text-pale-sky">Aucune commission n'a été obtenue sur l'impression du mémoire de {{ paiement.etudiant.nom}} {{ paiement.etudiant.prenom}}</h5>
+                                        <small> La date du dépot de dossier est le {{paiement.date_paiement}}</small>
+									</div>
+								</div>
+									{% endif %}
+								{% endfor %}
+							</div>
+							
+							<div class="card-footer border-0 pt-2">
+								<div class="text-center">
+									
+								</div>
+								<div class="text-center">
+									
+								</div>
+							</div>
+						</div>
+					</div>
+
+
+
+					
+					<div class="col-xl-8 col-lg-8 col-xxl-8 col-md-12">
+						<div class="card">
+                            <div class="card-header">
+                                <h4 class="card-title">Student List</h4>
+                            </div>
+                            <div class="card-body">
+							    <div class="table-responsive recentOrderTable text-nowrap">
+                                    <table class="table verticle-middle table-responsive-md">
+                                        <thead>
+                                            <tr>
+                                                <th scope="col">
+                                                    <div class="form-check">
+														<input type="checkbox" class="form-check-input" id="checkAll">
+													</div>
+                                                </th>
+                                                <th scope="col">Student Name</th>
+                                                <th scope="col">Assigned Coach</th>
+                                                <th scope="col">Date</th>
+                                                <th scope="col">Time</th>
+                                                <th scope="col">Actions</th>
+                                            </tr>
+                                        </thead>
+                                        <tbody>
+                                            <tr>
+                                                <td>
+                                                    <div class="form-check">
+														<input type="checkbox" class="form-check-input" id="checkbox2">
+													</div>
+                                                </td>
+                                                <td>Angelica Ramos</td>
+                                                <td>Ashton Cox</td>
+                                                <td>12 August 2021</td>
+                                                <td>10:15</td>
+                                                <td>
+                                                    <div class="dropdown custom-dropdown mb-0">
+                                                        <div data-bs-toggle="dropdown">
+                                                            <i class="fa fa-ellipsis-v"></i>
+                                                        </div>
+                                                        <div class="dropdown-menu dropdown-menu-right">
+                                                            <a class="dropdown-item" href="javascript:void(0);">Accept</a>
+                                                            <a class="dropdown-item" href="javascript:void(0);">Details</a>
+                                                            <a class="dropdown-item text-danger" href="javascript:void(0);">Cancel</a>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div class="form-check">
+														<input type="checkbox" class="form-check-input" id="checkbox3">
+													</div>
+                                                </td>
+                                                <td>Bradley Greer</td>
+                                                <td>Brenden Wagner</td>
+                                                <td>11 July 2021</td>
+                                                <td>10:00</td>
+                                                <td>
+                                                    <div class="dropdown custom-dropdown mb-0">
+                                                        <div data-bs-toggle="dropdown">
+                                                            <i class="fa fa-ellipsis-v"></i>
+                                                        </div>
+                                                        <div class="dropdown-menu dropdown-menu-right">
+                                                            <a class="dropdown-item" href="javascript:void(0);">Accept</a>
+                                                            <a class="dropdown-item" href="javascript:void(0);">Details</a>
+                                                            <a class="dropdown-item text-danger" href="javascript:void(0);">Cancel</a>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div class="form-check">
+														<input type="checkbox" class="form-check-input" id="checkbox4">
+													</div>
+                                                </td>
+                                                <td>Cedric Kelly</td>
+                                                <td>Brielle Williamson</td>
+                                                <td>10 May 2021</td>
+                                                <td>09:45</td>
+                                                <td>
+                                                    <div class="dropdown custom-dropdown mb-0">
+                                                        <div data-bs-toggle="dropdown">
+                                                            <i class="fa fa-ellipsis-v"></i>
+                                                        </div>
+                                                        <div class="dropdown-menu dropdown-menu-right">
+                                                            <a class="dropdown-item" href="javascript:void(0);">Accept</a>
+                                                            <a class="dropdown-item" href="javascript:void(0);">Details</a>
+                                                            <a class="dropdown-item text-danger" href="javascript:void(0);">Cancel</a>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div class="form-check">
+														<input type="checkbox" class="form-check-input" id="checkbox5">
+													</div>
+                                                </td>
+                                                <td>Caesar Vance</td>
+                                                <td>Herrod Chandler</td>
+                                                <td>09 April 2021</td>
+                                                <td>09:30</td>
+                                                <td>
+                                                    <div class="dropdown custom-dropdown mb-0">
+                                                        <div data-bs-toggle="dropdown">
+                                                            <i class="fa fa-ellipsis-v"></i>
+                                                        </div>
+                                                        <div class="dropdown-menu dropdown-menu-right">
+                                                            <a class="dropdown-item" href="javascript:void(0);">Accept</a>
+                                                            <a class="dropdown-item" href="javascript:void(0);">Details</a>
+                                                            <a class="dropdown-item text-danger" href="javascript:void(0);">Cancel</a>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>
+                                                    <div class="form-check">
+														<input type="checkbox" class="form-check-input" id="checkbox6">
+													</div>
+                                                </td>
+                                                <td>Rhona Davidson</td>
+                                                <td>Sonya Frost</td>
+                                                <td>08 March 2021</td>
+                                                <td>09:15</td>
+                                                <td>
+                                                    <div class="dropdown custom-dropdown mb-0">
+                                                        <div data-bs-toggle="dropdown">
+                                                            <i class="fa fa-ellipsis-v"></i>
+                                                        </div>
+                                                        <div class="dropdown-menu dropdown-menu-right">
+                                                            <a class="dropdown-item" href="javascript:void(0);">Accept</a>
+                                                            <a class="dropdown-item" href="javascript:void(0);">Details</a>
+                                                            <a class="dropdown-item text-danger" href="javascript:void(0);">Cancel</a>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                            </tr>
+											<tr>
+                                                <td>
+                                                    <div class="form-check">
+														<input type="checkbox" class="form-check-input" id="checkbox7">
+													</div>
+                                                </td>
+                                                <td>Bradley Greer</td>
+                                                <td>Brenden Wagner</td>
+                                                <td>11 July 2021</td>
+                                                <td>10:00</td>
+                                                <td>
+                                                    <div class="dropdown custom-dropdown mb-0">
+                                                        <div data-bs-toggle="dropdown">
+                                                            <i class="fa fa-ellipsis-v"></i>
+                                                        </div>
+                                                        <div class="dropdown-menu dropdown-menu-right">
+                                                            <a class="dropdown-item" href="javascript:void(0);">Accept</a>
+                                                            <a class="dropdown-item" href="javascript:void(0);">Details</a>
+                                                            <a class="dropdown-item text-danger" href="javascript:void(0);">Cancel</a>
+                                                        </div>
+                                                    </div>
+                                                </td>
+                                            </tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+							</div>
+						</div>
+					</div>
+
+				</div>
+            </div>
+        </div>
+    
+
+    </div>
+    <!--**********************************
+        Main wrapper end
+    ***********************************-->
+
+    <!--**********************************
+        Scripts
+    ***********************************-->
+    <!-- Required vendors -->
+    <script src="{% static 'vendor/global/global.min.js' %}"></script>
+	<script src="{% static 'vendor/bootstrap-select/dist/js/bootstrap-select.min.js' %}"></script>
+	
+    <!-- Chart Morris plugin files -->
+    <script src="{% static 'vendor/raphael/raphael.min.js' %}"></script>
+    <script src="{% static 'vendor/morris/morris.min.js' %}"></script>
+	
+	<!-- Chart piety plugin files -->
+    <script src="{% static 'vendor/peity/jquery.peity.min.js' %}"></script>
+	
+	
+	<!-- Svganimation scripts -->
+    <script src="{% static 'vendor/svganimation/vivus.min.js' %}"></script>
+    <script src="{% static 'vendor/svganimation/svg.animation.js' %}"></script>
+	<!-- Demo scripts -->
+    <script src="{% static 'js/dashboard/dashboard-2.js' %}"></script>
+	
+	<script src="{% static 'js/custom.min.js' %}"></script>
+    <!-- <script src="{% static 'js/dlabnav-init.js' %}"></script> -->
+    <script src="{% static 'js/demo.js' %}"></script>
+    <script src="{% static 'js/styleSwitcher.js' %}"></script>
+
+{% endblock %}

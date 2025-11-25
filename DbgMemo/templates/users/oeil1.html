@@ -1,0 +1,99 @@
+{% extends 'users/base.html' %}
+
+{% block content %}
+
+<title>DbgMemO - PAGE VISIONAGE DU DOSSIER </title>
+
+<div class="content-body">
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-lg-12">
+                <!-- Début de la zone imprimable -->
+                <div id="printableArea">
+                    <div class="card">
+                        <div class="card-header">
+                            <h4 class="card-title">Détails du dossier {{ dossier.etudiant.nom }} {{ dossier.etudiant.prenom }}</h4>
+                        </div>
+                        <div class="card-body">
+                            <div class="row">
+                                <!-- Colonne de gauche -->
+                                <div class="col-md-6">
+                                    <p><strong>Étudiant:</strong> {{ dossier.etudiant.nom }} {{ dossier.etudiant.prenom }}</p>
+                                    <p><strong>Email:</strong> {{ dossier.etudiant.email }}</p>
+                                    <p><strong>Contact:</strong> {{ dossier.etudiant.contact }}</p>
+                                    <p><strong>Date et lieu de naissance:</strong> {{ dossier.etudiant.date_naissance }} à {{ dossier.etudiant.lieu_naissance }}</p>
+                                    <p><strong>Date de création du dossier:</strong> {{ dossier.date_creation }}</p>
+                                    <p><strong>Date de modification du dossier:</strong> {{ dossier.date_modification }}</p>
+                                    <p><strong>Filière:</strong> {{ dossier.etudiant.filiere }}</p>
+                                    <p><strong>Thème du mémoire:</strong> {{ dossier.etudiant.theme_memoire}}</p>
+                                </div>
+                                
+                                <!-- Colonne de droite -->
+                                <div class="col-md-6">
+                                    
+                                    <p><strong>Statut:</strong> {% if dossier.statut %}Traité{% else %}En Traitement{% endif %}</p>
+                                    <p><strong>Livraison:</strong> {% if dossier.livrer %}Effectué{% else %}En attente{% endif %}</p>
+                                    {% for paiement in paiements %}
+                                    <p><strong>Source de paiement:</strong> {{ paiement.source }}</p>
+                                    <p><strong>Référence:</strong> {{ paiement.reference }}</p>
+                                    <p><strong>Frais d'impression:</strong> {{ paiement.frais_impression}}</p>
+                                    <p><strong>Frais annexe:</strong> {{ paiement.frais_annexe}}</p>
+                                    <p><strong>Service annexe:</strong> {{ paiement.intitule_annexe}}</p>
+                                    <p><strong>Montant total:</strong> {{ paiement.montant}}</p>
+                                    {% empty %}
+                                    <p>Aucun paiement enregistré</p>
+                                    {% endfor %}
+                                </div>
+                            </div>
+                        </div>
+                        <div class="message" style="text-align: center; background-color: #f5f5f5; padding: 15px; border-radius: 8px; margin-top: 20px;">
+                            <div class="thank-you-message">
+                                <p>Cher(e) étudiant(e),</p>
+                                <p>Nous vous remercions chaleureusement d'avoir choisi le service <strong>DbgMemO</strong> pour l'impression de votre mémoire.</p>     
+                                <p class="signature">L'équipe DbgMemO</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- Fin de la zone imprimable -->
+                
+                <div class="row">
+                    <div class="col-lg-12 text-right">
+                        <button onclick="window.print()" class="btn btn-light" type="button">
+                            <i class="fa fa-print"></i> Imprimer
+                        </button>
+                    </div>    
+                </div>
+                <div class="row">
+                    <div class="col-lg-12 text-right">
+                        <a href="#" class="btn btn-light">
+                            <i class="fa fa-print"></i> Reçu
+                        </a>
+                    </div>    
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    @media print {
+        body * {
+            visibility: hidden;
+        }
+        #printableArea, #printableArea * {
+            visibility: visible;
+        }
+        #printableArea {
+            position: absolute;
+            left: 0;
+            top: 0;
+            width: 100%;
+        }
+        .no-print {
+            display: none !important;
+        }
+    }
+</style>
+
+{% endblock %}

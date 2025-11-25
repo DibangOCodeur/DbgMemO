@@ -1,0 +1,145 @@
+﻿{% extends 'users/base.html' %}
+
+{% block content %}
+
+	<title>DbgMemO - DOSSIERS DU JOUR </title>
+
+        <div class="content-body">
+            <!-- row -->
+            <div class="container-fluid">
+				    
+                <div class="row page-titles mx-0">
+                    <div class="col-sm-6 p-md-0">
+                        <div class="welcome-text">
+                            <h4>Dossiers du {{ today|date:"l j F Y" }}</h4>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 p-md-0 justify-content-sm-end mt-2 mt-sm-0 d-flex">
+                        <ol class="breadcrumb">
+                            
+                            <li class="breadcrumb-item"><a href="javascript:void(0);">Dossiers</a></li>
+                            <li class="breadcrumb-item active"><a href="javascript:void(0);">  {{ today|date:"l j F Y" }}</a></li>
+                        </ol>
+                    </div>
+                </div>
+				<div class="row">
+					<div class="col-lg-12">
+						<div class="card">
+							<div class="card-header">
+								<h4 class="card-title">Dossiers du jour </h4>
+                            
+										<!-- Barre de recherche -->
+									<form method="get" action="{% url 'dossiers_du_jour' %}" class="d-inline-block w-50">
+										<div class="input-group">
+											<input type="text" 
+												name="q" 
+												class="form-control" 
+												placeholder="Rechercher"
+												value="{{ query }}"
+												aria-label="Recherche">
+											<button type="submit" class="btn btn-primary">
+												<i class="fa fa-search"></i>
+											</button>
+											{% if query %}
+												<a href="{% url 'dossiers_du_jour' %}" class="btn btn-secondary ml-2">
+													Réinitialiser
+												</a>
+											{% endif %}
+										</div>
+									</form>
+
+									<a href="{% url 'enregistrer_etudiant' %}" class="btn btn-primary">+ Ajouter un dossier</a>
+							</div>
+
+
+
+							<div class="col-xl-12 col-xxl-12 col-lg-12 col-md-12 col-sm-12">
+								<div class="card">
+							
+									<div class="card-body pt-2">
+										<div class="table-responsive recentOrderTable">
+											<table class="table verticle-middle text-nowrap table-responsive-md">
+												<thead>
+													<tr>
+														<th scope="col">id</th>
+														<th scope="col">Etudiants</th>
+														<th scope="col">Filière</th>
+														<th scope="col">date de création</th>
+														<th scope="col">Contact</th>
+														<th scope="col">Annexe</th>
+														<th scope="col">statut</th>
+														<th scope="col">Livraison</th>
+														<th scope="col">Actions</th>
+													</tr>
+												</thead>
+
+
+												<tbody>
+													{% for dossier in page_obj %}
+													<tr>
+														<td>{{ dossier.id }}</td>
+														<td>{{ dossier.etudiant.nom }} {{ dossier.etudiant.prenom }}</td>
+														<td>{{ dossier.etudiant.filiere }}</td>
+														<td>{{ dossier.date_creation }}</td>
+														<td>{{ dossier.etudiant.contact }}</td>
+														<td>
+															{% with dossier.etudiant.paiements.first as paiement %}
+																{% if paiement and paiement.service_annexe %}
+																	<span class="badge badge-rounded badge-success">Oui</span>
+																{% else %}
+																	<span class="badge badge-rounded badge-danger">Non</span>
+																{% endif %}
+															{% endwith %}
+														</td>
+														<td>
+															{% if dossier.statut %}
+																<span class="badge badge-rounded badge-success">Traité</span>
+															{% else %}
+																<span class="badge badge-rounded badge-danger">En Cours</span>
+															{% endif %}
+														</td>
+														<td>
+															{% if dossier.livrer %}
+																<span class="badge badge-rounded badge-success">Livré</span>
+															{% else %}
+																<span class="badge badge-rounded badge-danger">Non livré</span>
+															{% endif %}
+														</td>
+														
+														<td>
+															<a href="{% url 'detail_dossier' dossier.id %}" class="btn btn-xs sharp btn-info" title="Voir">
+																<i class="fa fa-eye"></i>
+															</a>
+															<a href="{% url 'modifier_dossier' dossier.id %}" class="btn btn-xs sharp btn-primary">
+																<i class="fa fa-pencil"></i>
+															</a>
+															<a href="{% url 'supprimer_dossier' dossier.id %}" class="btn btn-xs sharp btn-danger" title="Supprimer">
+																<i class="fa fa-trash"></i>
+															</a>
+														</td>
+													</tr>
+													{% empty %}
+													<tr>
+														<td colspan="9" class="text-center">
+															{% if query %}
+																Aucun dossier trouvé pour "{{ query }}".
+															{% else %}
+																Aucun dossier enregistré pour aujourd'hui.
+															{% endif %}
+														</td>
+													</tr>
+													{% endfor %}
+												</tbody>		
+												
+											</table>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>			
+		</div>
+
+{% endblock %}

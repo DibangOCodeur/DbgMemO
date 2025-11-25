@@ -1,0 +1,141 @@
+﻿{% extends 'users/base.html' %}
+
+{% block content %}
+<title>DbgMemO - LISTE DES MEMOIRES</title>
+
+<div class="content-body">
+    <div class="container-fluid">
+        <div class="row page-titles mx-0">
+            <div class="col-sm-6 p-md-0">
+                <div class="welcome-text">
+                    <h4>Tous les mémoires</h4>
+                </div>
+            </div>
+            <div class="col-sm-6 p-md-0 justify-content-sm-end mt-2 mt-sm-0 d-flex">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="javascript:void(0);">Mémoires</a></li>
+                    <li class="breadcrumb-item active"><a href="javascript:void(0);">Tous les mémoires</a></li>
+                </ol>
+            </div>
+        </div>
+        
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="card">
+                    <div class="card-header">
+                        <h4 class="card-title">Liste des mémoires</h4>
+                        
+                        <!-- Barre de recherche améliorée -->
+                        <form method="get" action="{% url 'list_memoire' %}" class="d-inline-block w-50">
+                            <div class="input-group">
+                                <input type="text" 
+                                       name="q" 
+                                       class="form-control" 
+                                       placeholder="Rechercher par étudiants ou filières"
+                                       value="{{ search_query|default:'' }}">
+                                <button type="submit" class="btn btn-primary">
+                                    <i class="fa fa-search"></i>
+                                </button>
+                                {% if search_query %}
+                                    <a href="{% url 'list_memoire' %}" class="btn btn-secondary ml-2">
+                                        Réinitialiser
+                                    </a>
+                                {% endif %}
+                            </div>
+                        </form>
+                        
+                        <a href="#" class="btn btn-primary">
+                            <i class="fas fa-plus"></i> Ajouter un mémoire
+                        </a>
+                    </div>
+
+                    <div class="card-body">
+                        <div class="table-responsive">
+                            <table class="table table-hover ">
+                                <thead class="thead-dark">
+                                    <tr>
+                                        <th>ID</th>
+                                        <th>Étudiant</th>
+                                        <th>Filière</th>
+                                        <th>Inscription</th>
+                                        <th>Fichier</th>
+                                       
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    {% for paiement in paiements %}
+                                    <tr>
+                                        <td>{{ paiement.id }}</td>
+                                        <td>{{ paiement.etudiant.nom }} {{ paiement.etudiant.prenom }}</td>
+                                        <td>{{ paiement.etudiant.filiere }}</td>
+                                        <td>{{ paiement.etudiant.date_inscription }}</td>
+                                        <td>
+                                            {% if paiement.etudiant.support_pdf %}
+                                                <a href="{{ paiement.etudiant.support_pdf.url }}" 
+                                                   class="btn btn-sm btn-info" target="_blank" view>
+                                                   <i class="fas fa-file-pdf"></i> Voir le fichier
+                                                </a>
+                                            {% else %}
+                                                <span class="text-muted">Non disponible</span>
+                                            {% endif %}
+                                        </td>
+                                        
+                                    </tr>
+                                    {% empty %}
+                                    <tr>
+                                        <td colspan="7" class="text-center py-4">
+                                            <i class="fas fa-book-open fa-2x mb-2 text-muted"></i>
+                                            <p>Aucun mémoire trouvé</p>
+                                            <a href="#" class="btn btn-primary">
+                                                <i class="fas fa-plus"></i> Ajouter un mémoire
+                                            </a>
+                                        </td>
+                                    </tr>
+                                    {% endfor %}
+                                </tbody>
+                            </table>
+                        </div>
+                        
+                        <!-- Pagination -->
+                        {% if memoires.has_other_pages %}
+                        <nav aria-label="Page navigation">
+                            <ul class="pagination justify-content-center mt-4">
+                                {% if memoires.has_previous %}
+                                <li class="page-item">
+                                    <a class="page-link" href="?page={{ memoires.previous_page_number }}{% if request.GET.q %}&q={{ request.GET.q }}{% endif %}">
+                                        &laquo; Précédent
+                                    </a>
+                                </li>
+                                {% endif %}
+                                
+                                {% for num in memoires.paginator.page_range %}
+                                    {% if memoires.number == num %}
+                                    <li class="page-item active">
+                                        <span class="page-link">{{ num }}</span>
+                                    </li>
+                                    {% else %}
+                                    <li class="page-item">
+                                        <a class="page-link" href="?page={{ num }}{% if request.GET.q %}&q={{ request.GET.q }}{% endif %}">
+                                            {{ num }}
+                                        </a>
+                                    </li>
+                                    {% endif %}
+                                {% endfor %}
+                                
+                                {% if memoires.has_next %}
+                                <li class="page-item">
+                                    <a class="page-link" href="?page={{ memoires.next_page_number }}{% if request.GET.q %}&q={{ request.GET.q }}{% endif %}">
+                                        Suivant &raquo;
+                                    </a>
+                                </li>
+                                {% endif %}
+                            </ul>
+                        </nav>
+                        {% endif %}
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

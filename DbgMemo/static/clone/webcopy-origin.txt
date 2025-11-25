@@ -1,0 +1,1536 @@
+Uri: https://edumin.dexignlab.com/xhtml/about-courses.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\about-courses.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/about-student.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\about-student.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/add-blog.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\add-blog.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/add-courses.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\add-courses.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/add-departments.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\add-departments.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/add-email.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\add-email.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/add-fees.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\add-fees.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/add-holiday.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\add-holiday.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/add-library.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\add-library.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/add-professor.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\add-professor.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/add-staff.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\add-staff.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/add-student.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\add-student.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/all-courses.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\all-courses.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/all-departments.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\all-departments.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/all-holiday.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\all-holiday.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/all-library.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\all-library.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/all-professors.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\all-professors.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/all-staff.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\all-staff.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/all-students.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\all-students.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/app-calender.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\app-calender.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/app-profile.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\app-profile.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/blog-category.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\blog-category.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/blog.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\blog.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/chart-chartist.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\chart-chartist.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/chart-chartjs.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\chart-chartjs.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/chart-flot.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\chart-flot.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/chart-morris.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\chart-morris.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/chart-peity.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\chart-peity.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/chart-sparkline.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\chart-sparkline.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/content-add.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\content-add.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/content.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\content.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/css/style.css
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\css\style.css
+Content Type: text/css
+
+Uri: https://edumin.dexignlab.com/xhtml/ecom-checkout.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\ecom-checkout.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/ecom-customers.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\ecom-customers.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/ecom-invoice.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\ecom-invoice.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/ecom-product-detail.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\ecom-product-detail.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/ecom-product-grid.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\ecom-product-grid.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/ecom-product-list.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\ecom-product-list.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/ecom-product-order.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\ecom-product-order.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/edit-courses.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\edit-courses.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/edit-departments.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\edit-departments.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/edit-holiday.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\edit-holiday.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/edit-library.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\edit-library.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/edit-professor.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\edit-professor.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/edit-profile.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\edit-profile.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/edit-staff.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\edit-staff.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/edit-student.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\edit-student.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/email-compose.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\email-compose.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/email-inbox.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\email-inbox.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/email-read.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\email-read.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/email-template.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\email-template.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/event-management.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\event-management.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/fees-collection.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\fees-collection.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/fees-receipt.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\fees-receipt.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/form-ckeditor.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\form-ckeditor.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/form-element.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\form-element.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/form-pickers.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\form-pickers.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/form-validation.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\form-validation.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/form-wizard.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\form-wizard.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/holiday-calendar.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\holiday-calendar.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/avasta/css/style.css
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\avasta\css\style.css
+Content Type: text/css
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/avasta/fonts/avasta.eot
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\avasta\fonts\avasta.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/avasta/fonts/avasta.svg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\avasta\fonts\avasta.svg
+Content Type: image/svg+xml
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/avasta/fonts/avasta.ttf
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\avasta\fonts\avasta.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/avasta/fonts/avasta.woff
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\avasta\fonts\avasta.woff
+Content Type: application/font-woff
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/avasta/fonts/avasta.woff2
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\avasta\fonts\avasta.woff2
+Content Type: application/font-woff2
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/flaticon/flaticon.css
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\flaticon\flaticon.css
+Content Type: text/css
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/flaticon/Flaticon.eot
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\flaticon\Flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/flaticon/Flaticon.eot?
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\flaticon\Flaticon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/flaticon/Flaticon.svg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\flaticon\Flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/flaticon/Flaticon.ttf
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\flaticon\Flaticon.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/flaticon/Flaticon.woff
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\flaticon\Flaticon.woff
+Content Type: application/font-woff
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/fontawesome/css/all.min.css
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\fontawesome\css\all.min.css
+Content Type: text/css
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/fontawesome/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\fontawesome\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/fontawesome/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\fontawesome\webfonts\fa-brands-400.woff2
+Content Type: application/font-woff2
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/fontawesome/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\fontawesome\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/fontawesome/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\fontawesome\webfonts\fa-regular-400.woff2
+Content Type: application/font-woff2
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/fontawesome/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\fontawesome\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/fontawesome/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\fontawesome\webfonts\fa-solid-900.woff2
+Content Type: application/font-woff2
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/fontawesome/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\fontawesome\webfonts\fa-v4compatibility.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/fontawesome/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\fontawesome\webfonts\fa-v4compatibility.woff2
+Content Type: application/font-woff2
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/line-awesome/css/line-awesome.min.css
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\line-awesome\css\line-awesome.min.css
+Content Type: text/css
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/line-awesome/fonts/la-brands-400.eot
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\line-awesome\fonts\la-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/line-awesome/fonts/la-brands-400.eot?
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\line-awesome\fonts\la-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/line-awesome/fonts/la-brands-400.svg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\line-awesome\fonts\la-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/line-awesome/fonts/la-brands-400.ttf
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\line-awesome\fonts\la-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/line-awesome/fonts/la-brands-400.woff
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\line-awesome\fonts\la-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/line-awesome/fonts/la-brands-400.woff2
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\line-awesome\fonts\la-brands-400.woff2
+Content Type: application/font-woff2
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/line-awesome/fonts/la-regular-400.eot
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\line-awesome\fonts\la-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/line-awesome/fonts/la-regular-400.eot?
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\line-awesome\fonts\la-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/line-awesome/fonts/la-regular-400.svg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\line-awesome\fonts\la-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/line-awesome/fonts/la-regular-400.ttf
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\line-awesome\fonts\la-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/line-awesome/fonts/la-regular-400.woff
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\line-awesome\fonts\la-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/line-awesome/fonts/la-regular-400.woff2
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\line-awesome\fonts\la-regular-400.woff2
+Content Type: application/font-woff2
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/line-awesome/fonts/la-solid-900.eot
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\line-awesome\fonts\la-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/line-awesome/fonts/la-solid-900.eot?
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\line-awesome\fonts\la-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/line-awesome/fonts/la-solid-900.svg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\line-awesome\fonts\la-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/line-awesome/fonts/la-solid-900.ttf
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\line-awesome\fonts\la-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/line-awesome/fonts/la-solid-900.woff
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\line-awesome\fonts\la-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/line-awesome/fonts/la-solid-900.woff2
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\line-awesome\fonts\la-solid-900.woff2
+Content Type: application/font-woff2
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/material-design-iconic-font/css/materialdesignicons.min.css
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\material-design-iconic-font\css\materialdesignicons.min.css
+Content Type: text/css
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.eot?
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\material-design-iconic-font\fonts\materialdesignicons-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.eot?v=2.4.85
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\material-design-iconic-font\fonts\materialdesignicons-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.svg?v=2.4.85
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\material-design-iconic-font\fonts\materialdesignicons-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.ttf?v=2.4.85
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\material-design-iconic-font\fonts\materialdesignicons-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.woff2?v=2.4.85
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\material-design-iconic-font\fonts\materialdesignicons-webfont.woff2
+Content Type: application/font-woff2
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.woff?v=2.4.85
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\material-design-iconic-font\fonts\materialdesignicons-webfont.woff
+Content Type: application/font-woff
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/simple-line-icons/css/simple-line-icons.css
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\simple-line-icons\css\simple-line-icons.css
+Content Type: text/css
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/simple-line-icons/fonts/Simple-Line-Icons4c82.eot?-i3a2kk
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\simple-line-icons\fonts\Simple-Line-Icons4c82.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/simple-line-icons/fonts/Simple-Line-Icons4c82.svg?-i3a2kk
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\simple-line-icons\fonts\Simple-Line-Icons4c82.svg
+Content Type: image/svg+xml
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/simple-line-icons/fonts/Simple-Line-Icons4c82.ttf?-i3a2kk
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\simple-line-icons\fonts\Simple-Line-Icons4c82.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/simple-line-icons/fonts/Simple-Line-Icons4c82.woff2?-i3a2kk
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\simple-line-icons\fonts\Simple-Line-Icons4c82.woff2
+Content Type: application/font-woff2
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/simple-line-icons/fonts/Simple-Line-Icons4c82.woff?-i3a2kk
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\simple-line-icons\fonts\Simple-Line-Icons4c82.woff
+Content Type: application/font-woff
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/simple-line-icons/fonts/Simple-Line-Iconsd41d.eot?
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\simple-line-icons\fonts\Simple-Line-Iconsd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/themify-icons/css/themify-icons.css
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\themify-icons\css\themify-icons.css
+Content Type: text/css
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/themify-icons/fonts/themify.ttf
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\themify-icons\fonts\themify.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/themify-icons/fonts/themify.woff
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\themify-icons\fonts\themify.woff
+Content Type: application/font-woff
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/themify-icons/fonts/themify9f24.eot?-fvbane
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\themify-icons\fonts\themify9f24.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/themify-icons/fonts/themify9f24.svg?-fvbane
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\themify-icons\fonts\themify9f24.svg
+Content Type: image/svg+xml
+
+Uri: https://edumin.dexignlab.com/xhtml/icons/themify-icons/fonts/themifyd41d.eot?
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\icons\themify-icons\fonts\themifyd41d.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://edumin.dexignlab.com/xhtml/images/1.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\1.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/avatar/1.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\avatar\1.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/avatar/1.png
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\avatar\1.png
+Content Type: image/png
+
+Uri: https://edumin.dexignlab.com/xhtml/images/avatar/2.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\avatar\2.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/avatar/3.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\avatar\3.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/avatar/4.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\avatar\4.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/avatar/5.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\avatar\5.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/avatar/5.png
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\avatar\5.png
+Content Type: image/png
+
+Uri: https://edumin.dexignlab.com/xhtml/images/avatar/6.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\avatar\6.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/avatar/7.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\avatar\7.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/avatar/8.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\avatar\8.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/big/img1.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\big\img1.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/big/img2.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\big\img2.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/big/img3.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\big\img3.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/big/img4.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\big\img4.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/big/img5.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\big\img5.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/big/img6.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\big\img6.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/big/img7.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\big\img7.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/big/img8.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\big\img8.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/card/1.png
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\card\1.png
+Content Type: image/png
+
+Uri: https://edumin.dexignlab.com/xhtml/images/card/2.png
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\card\2.png
+Content Type: image/png
+
+Uri: https://edumin.dexignlab.com/xhtml/images/card/3.png
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\card\3.png
+Content Type: image/png
+
+Uri: https://edumin.dexignlab.com/xhtml/images/courses/pic1.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\courses\pic1.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/courses/pic2.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\courses\pic2.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/courses/pic3.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\courses\pic3.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/courses/pic4.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\courses\pic4.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/courses/pic5.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\courses\pic5.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/courses/pic6.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\courses\pic6.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/courses/pic7.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\courses\pic7.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/courses/pic8.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\courses\pic8.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/favicon.png
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\favicon.png
+Content Type: image/png
+
+Uri: https://edumin.dexignlab.com/xhtml/images/like.png
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\like.png
+Content Type: image/png
+
+Uri: https://edumin.dexignlab.com/xhtml/images/logo-text.png
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\logo-text.png
+Content Type: image/png
+
+Uri: https://edumin.dexignlab.com/xhtml/images/no-img-avatar.png
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\no-img-avatar.png
+Content Type: image/png
+
+Uri: https://edumin.dexignlab.com/xhtml/images/pattern/pattern5.png
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\pattern\pattern5.png
+Content Type: image/png
+
+Uri: https://edumin.dexignlab.com/xhtml/images/product/1.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\product\1.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/product/2.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\product\2.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/product/3.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\product\3.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/product/4.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\product\4.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/product/5.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\product\5.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/product/6.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\product\6.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/product/7.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\product\7.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/profile/1.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\profile\1.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/profile/10.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\profile\10.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/profile/2.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\profile\2.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/profile/3.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\profile\3.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/profile/4.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\profile\4.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/profile/5.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\profile\5.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/profile/6.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\profile\6.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/profile/7.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\profile\7.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/profile/8.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\profile\8.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/profile/9.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\profile\9.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/profile/cover.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\profile\cover.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/profile/education/pic1.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\profile\education\pic1.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/profile/education/pic10.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\profile\education\pic10.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/profile/education/pic2.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\profile\education\pic2.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/profile/education/pic3.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\profile\education\pic3.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/profile/education/pic4.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\profile\education\pic4.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/profile/education/pic5.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\profile\education\pic5.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/profile/education/pic6.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\profile\education\pic6.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/profile/education/pic7.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\profile\education\pic7.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/profile/education/pic8.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\profile\education\pic8.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/profile/education/pic9.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\profile\education\pic9.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/profile/pic1.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\profile\pic1.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/profile/profile.png
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\profile\profile.png
+Content Type: image/png
+
+Uri: https://edumin.dexignlab.com/xhtml/images/profile/small/pic1.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\profile\small\pic1.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/profile/small/pic10.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\profile\small\pic10.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/profile/small/pic2.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\profile\small\pic2.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/profile/small/pic3.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\profile\small\pic3.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/profile/small/pic4.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\profile\small\pic4.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/profile/small/pic5.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\profile\small\pic5.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/profile/small/pic6.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\profile\small\pic6.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/profile/small/pic7.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\profile\small\pic7.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/profile/small/pic8.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\profile\small\pic8.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/profile/small/pic9.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\profile\small\pic9.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/qr.png
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\qr.png
+Content Type: image/png
+
+Uri: https://edumin.dexignlab.com/xhtml/images/tab/1.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\tab\1.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/tab/2.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\tab\2.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/tab/3.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\tab\3.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/images/tab/4.jpg
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\images\tab\4.jpg
+Content Type: image/jpeg
+
+Uri: https://edumin.dexignlab.com/xhtml/index-2.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\index-2.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/index-3.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\index-3.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/index.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\index.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/js/custom.min.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\js\custom.min.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/js/dashboard/cms.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\js\dashboard\cms.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/js/dashboard/dashboard-2.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\js\dashboard\dashboard-2.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/js/dashboard/dashboard-3.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\js\dashboard\dashboard-3.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/js/dashboard/dashboard.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\js\dashboard\dashboard.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/js/demo.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\js\demo.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/js/dlabnav-init.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\js\dlabnav-init.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/js/plugins-init/bs-daterange-picker-init.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\js\plugins-init\bs-daterange-picker-init.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/js/plugins-init/chartist-init.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\js\plugins-init\chartist-init.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/js/plugins-init/chartjs-init.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\js\plugins-init\chartjs-init.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/js/plugins-init/clock-picker-init.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\js\plugins-init\clock-picker-init.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/js/plugins-init/datatables.init.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\js\plugins-init\datatables.init.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/js/plugins-init/flot-init.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\js\plugins-init\flot-init.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/js/plugins-init/fullcalendar-init.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\js\plugins-init\fullcalendar-init.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/js/plugins-init/jquery-ascolorpicker.init.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\js\plugins-init\jquery-ascolorpicker.init.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/js/plugins-init/jqvmap-init.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\js\plugins-init\jqvmap-init.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/js/plugins-init/material-date-picker-init.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\js\plugins-init\material-date-picker-init.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/js/plugins-init/morris-init.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\js\plugins-init\morris-init.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/js/plugins-init/nestable-init.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\js\plugins-init\nestable-init.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/js/plugins-init/nouislider-init.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\js\plugins-init\nouislider-init.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/js/plugins-init/pickadate-init.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\js\plugins-init\pickadate-init.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/js/plugins-init/piety-init.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\js\plugins-init\piety-init.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/js/plugins-init/select2-init.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\js\plugins-init\select2-init.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/js/plugins-init/sparkline-init.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\js\plugins-init\sparkline-init.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/js/plugins-init/sweetalert.init.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\js\plugins-init\sweetalert.init.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/js/plugins-init/toastr-init.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\js\plugins-init\toastr-init.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/js/plugins-init/widgets-script-init.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\js\plugins-init\widgets-script-init.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/js/styleSwitcher.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\js\styleSwitcher.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/map-jqvmap.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\map-jqvmap.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/menu.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\menu.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/page-error-400.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\page-error-400.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/page-error-403.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\page-error-403.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/page-error-404.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\page-error-404.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/page-error-500.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\page-error-500.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/page-error-503.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\page-error-503.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/page-forgot-password.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\page-forgot-password.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/page-lock-screen.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\page-lock-screen.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/page-login.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\page-login.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/page-register.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\page-register.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/post-details.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\post-details.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/professor-profile.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\professor-profile.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/staff-profile.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\staff-profile.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/table-bootstrap-basic.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\table-bootstrap-basic.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/table-datatable-basic.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\table-datatable-basic.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/uc-lightgallery.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\uc-lightgallery.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/uc-nestable.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\uc-nestable.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/uc-noui-slider.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\uc-noui-slider.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/uc-select2.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\uc-select2.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/uc-sweetalert.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\uc-sweetalert.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/uc-toastr.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\uc-toastr.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/ui-accordion.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\ui-accordion.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/ui-alert.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\ui-alert.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/ui-badge.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\ui-badge.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/ui-button-group.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\ui-button-group.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/ui-button.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\ui-button.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/ui-card.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\ui-card.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/ui-carousel.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\ui-carousel.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/ui-dropdown.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\ui-dropdown.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/ui-grid.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\ui-grid.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/ui-list-group.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\ui-list-group.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/ui-media-object.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\ui-media-object.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/ui-modal.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\ui-modal.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/ui-pagination.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\ui-pagination.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/ui-popover.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\ui-popover.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/ui-progressbar.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\ui-progressbar.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/ui-tab.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\ui-tab.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/ui-typography.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\ui-typography.html
+Content Type: text/html
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/bootstrap-datepicker-master/css/bootstrap-datepicker.min.css
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\bootstrap-datepicker-master\css\bootstrap-datepicker.min.css
+Content Type: text/css
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/bootstrap-datepicker-master/js/bootstrap-datepicker.min.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\bootstrap-datepicker-master\js\bootstrap-datepicker.min.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/bootstrap-daterangepicker/daterangepicker.css
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\bootstrap-daterangepicker\daterangepicker.css
+Content Type: text/css
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/bootstrap-daterangepicker/daterangepicker.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\bootstrap-daterangepicker\daterangepicker.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/bootstrap-material-datetimepicker/css/bootstrap-material-datetimepicker.css
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\bootstrap-material-datetimepicker\css\bootstrap-material-datetimepicker.css
+Content Type: text/css
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/bootstrap-material-datetimepicker/js/bootstrap-material-datetimepicker.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\bootstrap-material-datetimepicker\js\bootstrap-material-datetimepicker.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/bootstrap-select/dist/css/bootstrap-select.min.css
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\bootstrap-select\dist\css\bootstrap-select.min.css
+Content Type: text/css
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/bootstrap-select/dist/js/bootstrap-select.min.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\bootstrap-select\dist\js\bootstrap-select.min.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/chart.js/Chart.bundle.min.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\chart.js\Chart.bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/chartist-plugin-tooltips/js/chartist-plugin-tooltip.min.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\chartist-plugin-tooltips\js\chartist-plugin-tooltip.min.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/chartist/css/chartist.min.css
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\chartist\css\chartist.min.css
+Content Type: text/css
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/chartist/js/chartist.min.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\chartist\js\chartist.min.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/ckeditor/ckeditor.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\ckeditor\ckeditor.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/clockpicker/css/bootstrap-clockpicker.min.css
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\clockpicker\css\bootstrap-clockpicker.min.css
+Content Type: text/css
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/clockpicker/js/bootstrap-clockpicker.min.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\clockpicker\js\bootstrap-clockpicker.min.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/datatables/css/jquery.dataTables.min.css
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\datatables\css\jquery.dataTables.min.css
+Content Type: text/css
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/datatables/css/responsive.bootstrap.min.css
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\datatables\css\responsive.bootstrap.min.css
+Content Type: text/css
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/datatables/js/dataTables.responsive.min.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\datatables\js\dataTables.responsive.min.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/datatables/js/jquery.dataTables.min.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\datatables\js\jquery.dataTables.min.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/dropzone/dist/dropzone.css
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\dropzone\dist\dropzone.css
+Content Type: text/css
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/dropzone/dist/dropzone.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\dropzone\dist\dropzone.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/flot-spline/jquery.flot.spline.min.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\flot-spline\jquery.flot.spline.min.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/flot/jquery.flot.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\flot\jquery.flot.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/flot/jquery.flot.pie.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\flot\jquery.flot.pie.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/flot/jquery.flot.resize.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\flot\jquery.flot.resize.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/fullcalendar/css/fullcalendar.min.css
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\fullcalendar\css\fullcalendar.min.css
+Content Type: text/css
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/fullcalendar/js/fullcalendar.min.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\fullcalendar\js\fullcalendar.min.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/global/global.min.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\global\global.min.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/highlightjs/highlight.pack.min.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\highlightjs\highlight.pack.min.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/jquery-ascolor/jquery-ascolor.min.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\jquery-ascolor\jquery-ascolor.min.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/jquery-ascolorpicker/css/ascolorpicker.min.css
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\jquery-ascolorpicker\css\ascolorpicker.min.css
+Content Type: text/css
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/jquery-ascolorpicker/images/alpha.png
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\jquery-ascolorpicker\images\alpha.png
+Content Type: image/png
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/jquery-ascolorpicker/images/hue.png
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\jquery-ascolorpicker\images\hue.png
+Content Type: image/png
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/jquery-ascolorpicker/images/saturation.png
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\jquery-ascolorpicker\images\saturation.png
+Content Type: image/png
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/jquery-ascolorpicker/images/transparent.png
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\jquery-ascolorpicker\images\transparent.png
+Content Type: image/png
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/jquery-ascolorpicker/js/jquery-ascolorpicker.min.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\jquery-ascolorpicker\js\jquery-ascolorpicker.min.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/jquery-asgradient/jquery-asgradient.min.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\jquery-asgradient\jquery-asgradient.min.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/jquery-smartwizard/dist/css/smart_wizard.min.css
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\jquery-smartwizard\dist\css\smart_wizard.min.css
+Content Type: text/css
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/jquery-smartwizard/dist/js/jquery.smartWizard.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\jquery-smartwizard\dist\js\jquery.smartWizard.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/jquery-sparkline/jquery.sparkline.min.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\jquery-sparkline\jquery.sparkline.min.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/jquery-steps/build/jquery.steps.min.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\jquery-steps\build\jquery.steps.min.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/jqueryui/js/jquery-ui.min.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\jqueryui\js\jquery-ui.min.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/jqvmap/css/jqvmap.min.css
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\jqvmap\css\jqvmap.min.css
+Content Type: text/css
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/jqvmap/js/jquery.vmap.min.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\jqvmap\js\jquery.vmap.min.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/jqvmap/js/jquery.vmap.usa.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\jqvmap\js\jquery.vmap.usa.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/jqvmap/js/jquery.vmap.world.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\jqvmap\js\jquery.vmap.world.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/lightgallery/dist/css/lg-thumbnail.css
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\lightgallery\dist\css\lg-thumbnail.css
+Content Type: text/css
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/lightgallery/dist/css/lg-zoom.css
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\lightgallery\dist\css\lg-zoom.css
+Content Type: text/css
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/lightgallery/dist/css/lightgallery.css
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\lightgallery\dist\css\lightgallery.css
+Content Type: text/css
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/lightgallery/dist/fonts/lg.svg?io9a6k
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\lightgallery\dist\fonts\lg.svg
+Content Type: image/svg+xml
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/lightgallery/dist/fonts/lg.ttf?io9a6k
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\lightgallery\dist\fonts\lg.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/lightgallery/dist/fonts/lg.woff2?io9a6k
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\lightgallery\dist\fonts\lg.woff2
+Content Type: application/font-woff2
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/lightgallery/dist/fonts/lg.woff?io9a6k
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\lightgallery\dist\fonts\lg.woff
+Content Type: application/font-woff
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/lightgallery/dist/images/loading.gif
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\lightgallery\dist\images\loading.gif
+Content Type: image/gif
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/lightgallery/dist/lightgallery.min.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\lightgallery\dist\lightgallery.min.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/lightgallery/dist/plugins/thumbnail/lg-thumbnail.min.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\lightgallery\dist\plugins\thumbnail\lg-thumbnail.min.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/lightgallery/dist/plugins/zoom/lg-zoom.min.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\lightgallery\dist\plugins\zoom\lg-zoom.min.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/metismenu/css/metisMenu.min.css
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\metismenu\css\metisMenu.min.css
+Content Type: text/css
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/moment/moment.min.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\moment\moment.min.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/morris/morris.min.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\morris\morris.min.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/nestable2/css/jquery.nestable.min.css
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\nestable2\css\jquery.nestable.min.css
+Content Type: text/css
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/nestable2/js/jquery.nestable.min.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\nestable2\js\jquery.nestable.min.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/nouislider/nouislider.min.css
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\nouislider\nouislider.min.css
+Content Type: text/css
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/nouislider/nouislider.min.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\nouislider\nouislider.min.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/owl-carousel/owl.carousel.css
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\owl-carousel\owl.carousel.css
+Content Type: text/css
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/owl-carousel/owl.carousel.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\owl-carousel\owl.carousel.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/peity/jquery.peity.min.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\peity\jquery.peity.min.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/perfect-scrollbar/css/perfect-scrollbar.css
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\perfect-scrollbar\css\perfect-scrollbar.css
+Content Type: text/css
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/pickadate/picker.date.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\pickadate\picker.date.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/pickadate/picker.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\pickadate\picker.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/pickadate/picker.time.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\pickadate\picker.time.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/pickadate/themes/default.css
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\pickadate\themes\default.css
+Content Type: text/css
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/pickadate/themes/default.date.css
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\pickadate\themes\default.date.css
+Content Type: text/css
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/raphael/raphael.min.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\raphael\raphael.min.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/select2/css/select2.min.css
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\select2\css\select2.min.css
+Content Type: text/css
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/select2/js/select2.full.min.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\select2\js\select2.full.min.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/star-rating/jquery.star-rating-svg.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\star-rating\jquery.star-rating-svg.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/star-rating/star-rating-svg.css
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\star-rating\star-rating-svg.css
+Content Type: text/css
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/svganimation/svg.animation.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\svganimation\svg.animation.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/svganimation/vivus.min.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\svganimation\vivus.min.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/sweetalert2/dist/sweetalert2.min.css
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\sweetalert2\dist\sweetalert2.min.css
+Content Type: text/css
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/sweetalert2/dist/sweetalert2.min.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\sweetalert2\dist\sweetalert2.min.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/tagify/dist/tagify.css
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\tagify\dist\tagify.css
+Content Type: text/css
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/tagify/dist/tagify.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\tagify\dist\tagify.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/toastr/css/toastr.min.css
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\toastr\css\toastr.min.css
+Content Type: text/css
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/toastr/js/toastr.min.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\toastr\js\toastr.min.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/vendor/wnumb/wNumb.js
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\vendor\wnumb\wNumb.js
+Content Type: application/x-javascript
+
+Uri: https://edumin.dexignlab.com/xhtml/widget-basic.html
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\xhtml\widget-basic.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\css-2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Nunito:400,600,700
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\css-4
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:400,600,700
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Roboto:400,500,700
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\css-3
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/icon?family=Material+Icons
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\icon
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/materialicons/v143/flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\s\materialicons\v143\flUhRq6tzZclQEJ-Vdg-IuiaDsNZ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtZ6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCu173w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v29/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\s\montserrat\v29\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDFwmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDGUmdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/nunito/v26/XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\s\nunito\v26\XRXI3I6Li01BKofiOc5wtlZ2di8HDLshdTQ3ig.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v40/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\s\opensans\v40\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\s\poppins\v22\pxiByp8kv8JHgFVrLCz7Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\s\poppins\v22\pxiByp8kv8JHgFVrLDD4Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\s\poppins\v22\pxiByp8kv8JHgFVrLDz8Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\s\poppins\v22\pxiByp8kv8JHgFVrLEj6Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\s\poppins\v22\pxiByp8kv8JHgFVrLGT9Z1xlEA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiEyp8kv8JHgFVrJJfedw.ttf
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\s\poppins\v22\pxiEyp8kv8JHgFVrJJfedw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbVmUiA8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+File Name: C:\Downloaded Web Sites\edumin.dexignlab.com\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjalmUiA8.ttf
+Content Type: font/ttf
+

@@ -1,0 +1,100 @@
+﻿{% extends 'users/base.html' %}
+
+{% block content %}
+
+<!-- jQuery -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<!-- jQuery UI -->
+<script src="https://code.jquery.com/ui/1.13.0/jquery-ui.min.js"></script>
+<link rel="stylesheet" href="https://code.jquery.com/ui/1.13.0/themes/base/jquery-ui.css">
+
+<div class="content-body">
+    <div class="container-fluid">
+
+        <div class="row page-titles mx-0">
+            <div class="col-sm-6 p-md-0">
+                <div class="welcome-text">
+                    <h4>Modification du dossier de {{ dossier.etudiant.nom }} {{ dossier.etudiant.prenom }}</h4>
+                </div>
+            </div>
+            <div class="col-sm-6 p-md-0 justify-content-sm-end mt-2 mt-sm-0 d-flex">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="javascript:void(0);">Dossier</a></li>
+                    <li class="breadcrumb-item active"><a href="javascript:void(0);">Modifications</a></li>
+                </ol>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-xl-12 col-xxl-12 col-sm-12">
+                <div class="card">
+                    <div class="card-header">
+                        <h5 class="card-title">Formulaire de Modification de dossier</h5>
+                    </div>
+                    <div class="card-body">
+                            {% if messages %}
+                            <div class="alert alert-info">
+                                {% for message in messages %}
+                                    <div{% if message.tags %} class="{{ message.tags }}"{% endif %}>{{ message }}</div>
+                                {% endfor %}
+                            </div>
+                            {% endif %}
+                        <form method="post" enctype="multipart/form-data">
+                            {% csrf_token %}
+                            
+                            <div class="row">
+                                <!-- Modification des informations de l'étudiant -->
+                                <div class="row">
+									{% for field in etudiant_form %}
+									<div class="col-md-6">
+										<div class="form-group">
+											<label for="{{ field.id_for_label }}">{{ field.label }}</label>
+											{{ field }}
+											{% if field.errors %}
+												<div class="text-danger">{{ field.errors }}</div>
+											{% endif %}
+										</div>
+									</div>
+									{% endfor %}
+								</div>
+
+                            <!-- Modification des informations du dossier -->
+                            <div class="row">
+                                {% for field in form %}
+                                <div class="col-md-6">
+                                    <div class="form-group">
+                                        <label for="{{ field.id_for_label }}">{{ field.label }}</label>
+                                        {{ field }}
+                                        {% if field.errors %}
+                                            <div class="text-danger small">{{ field.errors }}</div>
+                                        {% endif %}
+                                    </div>
+                                </div>
+                                {% endfor %}
+                            </div>
+
+                            <div class="col-lg-12 col-md-12 col-sm-12 mt-3">
+                                <button type="submit" class="btn btn-primary">Valider</button>
+                                <button type="reset" class="btn btn-danger light">Restaurer</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<script>
+    $(function () {
+        $("#datepicker").datepicker({
+            dateFormat: "dd/mm/yy", // Ceci affiche le format souhaité
+            changeMonth: true,
+            changeYear: true,
+            yearRange: "1950:2025"
+        });
+    });
+</script>
+
+{% endblock %}

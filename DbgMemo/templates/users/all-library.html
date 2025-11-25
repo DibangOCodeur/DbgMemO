@@ -1,0 +1,135 @@
+﻿{% extends 'users/base.html' %}
+
+{% block content %}
+
+	<title>DbgMemO - LISTE DES RECUS  </title>
+
+        <div class="content-body">
+            <!-- row -->
+            <div class="container-fluid">
+				    
+                <div class="row page-titles mx-0">
+                    <div class="col-sm-6 p-md-0">
+                        <div class="welcome-text">
+                            <h4>Tout les Reçus </h4>
+                        </div>
+                    </div>
+                    <div class="col-sm-6 p-md-0 justify-content-sm-end mt-2 mt-sm-0 d-flex">
+                        <ol class="breadcrumb">
+                            
+                            <li class="breadcrumb-item"><a href="javascript:void(0);">Reçus</a></li>
+                            <li class="breadcrumb-item active"><a href="javascript:void(0);">Tout les Reçus</a></li>
+                        </ol>
+                    </div>
+                </div>
+				<div class="row">
+					<div class="col-lg-12">
+						<div class="card">
+							<div class="card-header">
+								<h4 class="card-title">Liste des Reçus </h4>
+
+								<!-- Barre de recherche -->
+								<form method="get" action="" class="d-inline-block w-50">
+									<div class="input-group">
+										<input type="text" 
+											name="q" 
+											class="form-control" 
+											placeholder="Rechercher"
+											value="{{ request.GET.q }}">
+										<button type="submit" class="btn btn-primary">
+											<i class="fa fa-search"></i>
+										</button>
+										{% if query %}
+											<a href="{% url 'list_paiement' %}" class="btn btn-secondary ml-2">
+												Réinitialiser
+											</a>
+										{% endif %}
+									</div>
+								</form>
+
+
+								<a href="{% url 'enregistrer_etudiant' %}" class="btn btn-primary">+ Faire un paiement </a>
+							</div>
+
+
+
+							<div class="col-xl-12 col-xxl-12 col-lg-12 col-md-12 col-sm-12">
+								<div class="card">
+									<div class="card-body pt-2">
+										<div class="table-responsive recentOrderTable">
+											<table class="table verticle-middle text-nowrap table-responsive-md">
+												<thead>
+													<tr>
+														<th scope="col">Id</th>
+														<th scope="col">Etudiants</th>
+														<th scope="col">Filière</th>
+														<th scope="col">Dossier</th>
+														<th scope="col">Livraison</th>
+														<th scope="col">Montant</th>
+														<th scope="col">Actions</th>
+													</tr>
+												</thead>
+												<tbody>
+													{% for paiement in paiements %}
+													<tr>
+														<td>{{ paiement.id }}</td>
+														<td>{{ paiement.etudiant.nom }} {{ paiement.etudiant.prenom }}</td>
+														<td>{{ paiement.etudiant.filiere }}</td>
+														
+														<!-- Correction: Accès au dossier associé au paiement -->
+														<td>
+															{% with paiement.etudiant.dossiers.first as dossier %}
+																{% if dossier %}
+																	{% if dossier.statut %}
+																		<span class="badge badge-success">Traité</span>
+																	{% else %}
+																		<span class="badge badge-warning">En cours</span>
+																	{% endif %}
+																{% else %}
+																	<span class="badge badge-secondary">Pas de dossier</span>
+																{% endif %}
+															{% endwith %}
+														</td>
+														<td>
+															{% with paiement.etudiant.dossiers.first as dossier %}
+																{% if dossier %}
+																	{% if dossier.livrer %}
+																		<span class="badge badge-success">Livré</span>
+																	{% else %}
+																		<span class="badge badge-danger">En attente</span>
+																	{% endif %}
+																{% else %}
+																	<span class="badge badge-secondary">Pas de dossier</span>
+																{% endif %}
+															{% endwith %}
+														</td>
+														<td>{{ paiement.montant|floatformat:0 }} FCFA</td>
+														<td>
+															<a href="{% url 'detail_paiement' paiement.id %}" class="btn btn-info btn-xs sharp" title="Détails">
+																<i class="fas fa-info-circle"></i>
+															</a>
+															<a href="{% url 'supprimer_paiement' paiement.id %}" class="btn btn-danger btn-xs sharp" title="Supprimer">
+																<i class="fas fa-trash-alt"></i>
+															</a>
+														</td>
+													</tr>
+													{% empty %}
+													<tr>
+														<td colspan="7" class="text-center">Aucun paiement enregistré pour le moment.</td>
+													</tr>
+													{% endfor %}
+												</tbody>
+											</table>
+										</div>
+									</div>
+								</div>
+							</div>
+
+
+						</div>
+					</div>
+				</div>
+			</div>			
+		</div>
+
+{% endblock %}

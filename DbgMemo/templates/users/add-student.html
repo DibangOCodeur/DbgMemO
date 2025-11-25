@@ -1,0 +1,133 @@
+﻿{% extends 'users/base.html' %}
+
+{% block content %}
+
+ <title> DbgMemO - PAGE D'ADMISSION DES ETUDIANTS</title>
+<!-- jQuery -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<!-- jQuery UI -->
+<script src="https://code.jquery.com/ui/1.13.0/jquery-ui.min.js"></script>
+<link rel="stylesheet" href="https://code.jquery.com/ui/1.13.0/themes/base/jquery-ui.css">
+
+
+
+<div class="content-body">
+    <div class="container-fluid">
+
+        <div class="row page-titles mx-0">
+            <div class="col-sm-6 p-md-0">
+                <div class="welcome-text">
+                    <h4>Admission d'étudiants</h4>
+                </div>
+            </div>
+            <div class="col-sm-6 p-md-0 justify-content-sm-end mt-2 mt-sm-0 d-flex">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="javascript:void(0);">Étudiants</a></li>
+                    <li class="breadcrumb-item active"><a href="javascript:void(0);">Admission</a></li>
+                </ol>
+            </div>
+        </div>
+
+        <div class="row">
+            <div class="col-xl-12 col-xxl-12 col-sm-12">
+                <div class="card">
+                    <div class="card-header">
+                        <h5 class="card-title">Formulaire admission</h5>
+                    </div>
+                    <div class="card-body">
+                        <form action="{% url 'enregistrer_etudiant' %}" method="post" enctype="multipart/form-data">
+                            {% csrf_token %}
+							<div class="row">
+								<div class="col-md-6">
+									<div class="form-group">
+										{{ form.nom.label_tag }}
+										{{ form.nom }}
+									</div>
+								</div>
+								<div class="col-md-6">
+									<div class="form-group">
+										{{ form.prenom.label_tag }}
+										{{ form.prenom }}
+									</div>
+								</div>
+							</div>
+							
+							<div class="row">
+								<div class="col-md-6">
+									<div class="form-group">
+										{{ form.email.label_tag }}
+										{{ form.email }}
+									</div>
+								</div>
+								<div class="col-md-6">
+									<div class="form-group">
+										{{ form.date_naissance.label_tag }}
+										{{ form.date_naissance }}
+									</div>
+								</div>
+							</div>
+
+							<div class="row">
+								<div class="col-md-6">
+									<div class="form-group">
+										{{ form.lieu_naissance.label_tag }}
+										{{ form.lieu_naissance }}
+									</div>
+								</div>
+								<div class="col-md-6">
+									<div class="form-group">
+										{{ form.filiere.label_tag }}
+										{{ form.filiere }}
+									</div>
+								</div>
+							</div>
+							
+							<div class="row">
+								<div class="col-md-6">
+									<div class="form-group">
+										{{ form.contact.label_tag }}
+										{{ form.contact }}
+									</div>
+								</div>
+								<div class="col-md-6">
+									<div class="form-group">
+										{{ form.theme_memoire.label_tag }}
+										{{ form.theme_memoire }}
+									</div>
+								</div>
+							</div>
+						
+							<div class="row">
+								<div class="col-md-6">
+									<div class="form-group">
+										{{ form.support_pdf.label_tag }}
+										{{ form.support_pdf }}
+									</div>
+								</div>	
+							</div>
+							
+							
+                                <div class="col-lg-12 col-md-12 col-sm-12 mt-3">
+                                    <button type="submit" class="btn btn-primary">Valider</button>
+                                    <button type="reset" class="btn btn-danger light">Restaurer</button>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </div>
+</div>
+<script>
+    $(function () {
+        $("#datepicker").datepicker({
+            dateFormat: "dd/mm/yy", // Ceci affiche le format souhaité
+            changeMonth: true,
+            changeYear: true,
+            yearRange: "1950:2025"
+        });
+    });
+</script>
+{% endblock %}

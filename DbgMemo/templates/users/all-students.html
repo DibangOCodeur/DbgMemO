@@ -1,0 +1,129 @@
+﻿{% extends 'users/base.html' %}
+
+{% block content %}
+
+    <title>DbgMemO - LISTE DES ETUDIANTS </title>
+
+    <div class="content-body">
+        <!-- row -->
+        <div class="container-fluid">
+                
+            <div class="row page-titles mx-0">
+                <div class="col-sm-6 p-md-0">
+                    <div class="welcome-text">
+                        <h4>Tous les Etudiants</h4>
+                    </div>
+                </div>
+                <div class="col-sm-6 p-md-0 justify-content-sm-end mt-2 mt-sm-0 d-flex">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="javascript:void(0);">Etudiants</a></li>
+                        <li class="breadcrumb-item active"><a href="javascript:void(0);">Tous les étudiants</a></li>
+                    </ol>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="card">
+
+                        <div class="card-header">
+                            <h4 class="card-title">Liste des étudiants</h4>
+
+                            <!-- Barre de recherche -->
+                            <form method="get" action="" class="d-inline-block w-50">
+                                <div class="input-group">
+                                    <input type="text" 
+                                        name="q" 
+                                        class="form-control" 
+                                        placeholder="Rechercher"
+                                        value="{{ request.GET.q }}">
+                                    <button type="submit" class="btn btn-primary">
+                                        <i class="fa fa-search"></i>
+                                    </button>
+                                    {% if query %}
+                                        <a href="{% url 'list_etudiant' %}" class="btn btn-secondary ml-2">
+                                            Réinitialiser
+                                        </a>
+                                    {% endif %}
+                                </div>
+                            </form>
+
+                            <a href="{% url 'enregistrer_etudiant' %}" class="btn btn-primary">+ Ajouter un étudiant</a>
+                        </div>
+
+                        <div class="col-xl-12 col-xxl-12 col-lg-12 col-md-12 col-sm-12">
+                            <div class="card">
+                                <div class="card-body pt-2">
+                                    <div class="table-responsive recentOrderTable">
+                                        <table class="table verticle-middle text-nowrap table-responsive-md">
+                                            <thead>
+                                                <tr>
+                                                    <th scope="col">id</th>
+                                                    <th scope="col">Nom</th>
+                                                    <th scope="col">Prénom(s)</th>
+                                                    <th scope="col">Date de naissance</th>
+                                                    <th scope="col">Date inscription</th>
+                                                    <th scope="col">Montant</th>
+                                                    <th scope="col">Statut Paiement</th>
+                                                    <th scope="col">Actions</th>
+                                                </tr>
+                                            </thead>
+                                            <tbody>
+                                                {% for paiement in paiements %}
+                                                <tr>
+                                                    <td>{{ paiement.etudiant.id }}</td>
+                                                    <td>{{ paiement.etudiant.nom }}</td>
+                                                    <td>{{ paiement.etudiant.prenom }}</td>
+                                                    <td>{{ paiement.etudiant.date_naissance }}</td>
+                                                    <td>{{ paiement.etudiant.date_inscription }}</td>
+                                                    <td>{{ paiement.montant }} FCFA</td>
+                                                    <td>
+                                                        {% if paiement.statut %}
+                                                            <span class="badge badge-rounded badge-success">Paiement réussi</span>
+                                                        {% else %}
+                                                            <span class="badge badge-rounded badge-warning">Paiement échoué</span>
+                                                        {% endif %}
+                                                    </td>
+                                                    <td>
+                                                        <div class="d-flex">
+                                                            <!-- Bouton Voir -->
+															<a href="{% url 'recu_etudiant' paiement.id %}" 
+															class="btn btn-info btn-xs sharp mr-1" 
+															title="Reçu">
+															<i class="fas fa-file-invoice-dollar"></i>
+														 	</a>
+                                                            
+                                                            <!-- Bouton Modifier -->
+                                                            <a href="{% url 'modifier_etudiant' paiement.etudiant.id %}" 
+                                                               class="btn btn-primary btn-xs sharp mr-1" 
+                                                               title="Modifier">
+                                                                <i class="fa fa-pencil"></i>
+                                                            </a>
+                                                            
+                                                            <!-- Bouton Supprimer -->
+                                                            <a href="{% url 'supprimer_etudiant' paiement.etudiant.id %}" 
+                                                               class="btn btn-danger btn-xs sharp" 
+                                                               title="Supprimer"
+                                                               onclick="return confirm('Êtes-vous sûr de vouloir supprimer cet étudiant ?');">
+                                                                <i class="fa fa-trash"></i>
+                                                            </a>
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                                {% empty %}
+                                                <tr>
+                                                    <td colspan="8" class="text-center">Aucun étudiant trouvé</td>
+                                                </tr>
+                                                {% endfor %}
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>            
+    </div>
+
+{% endblock %}
